@@ -1,0 +1,926 @@
+[
+ {
+  "id": "seed_eb77ae30cb93",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Epistemology}} is the branch of philosophy that studies the nature, sources, scope and limits of knowledge — how it relates to truth, belief and justification, and how we respond to scepticism about knowledge claims.",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_dc7f1b29db0a",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by epistemology?",
+  "back": "Epistemology is the branch of philosophy that studies the nature, sources, scope and limits of knowledge — how it relates to truth, belief and justification, and how we respond to scepticism about knowledge claims.",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_4e9f6126b63c",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Technology}} is the material base that sets a society’s status",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_0058c2fd083f",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by technology?",
+  "back": "Technology is the material base that sets a society’s status",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_d093c17fbd22",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Ethical Knowledge?",
+  "back": "Ethical theories applied to real cases",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_1fab0734cb14",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Traditional view?",
+  "back": "Investigates the methods, validity and scope of knowledge",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_3b35f91fa179",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Modern view?",
+  "back": "Used in cognitive science: the mind as an information processor",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c0c04c6680ce",
+  "deck": "L1 Knowledge and Epistemology",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Bletchley Park?",
+  "back": "Helps break the German Enigma cipher during World War II",
+  "text": "",
+  "code": "",
+  "source": "L1 Knowledge and Epistemology",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_a9f7e5b82b56",
+  "deck": "L10 Computer Crimes",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Crimes?",
+  "back": "Types of cybercrime, who commits them, Malaysian law — and the latest cases from 2024 to 2026",
+  "text": "",
+  "code": "",
+  "source": "L10 Computer Crimes",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_a6560622e2d7",
+  "deck": "L10 Computer Crimes",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Understanding Cybercrime?",
+  "back": "Definitions, why it happens, who does it",
+  "text": "",
+  "code": "",
+  "source": "L10 Computer Crimes",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c3d8662c04e3",
+  "deck": "L10 Computer Crimes",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Categories?",
+  "back": "Crimes against property, people and infrastructure",
+  "text": "",
+  "code": "",
+  "source": "L10 Computer Crimes",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_0999104eaa83",
+  "deck": "L10 Computer Crimes",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Malaysian Law?",
+  "back": "Computer Crimes Act, CMA, Penal Code and new laws",
+  "text": "",
+  "code": "",
+  "source": "L10 Computer Crimes",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_e14dec7401ed",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Ethics}} is a practical science: the goal is not just analysis, but a definite judgement on what ought to be done.",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_0d8f1d9bc262",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by ethics?",
+  "back": "Ethics is a practical science: the goal is not just analysis, but a definite judgement on what ought to be done.",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_af22f9687540",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Your Project?",
+  "back": "Instructions and a checklist for a good judgement",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_5a6d4190cea4",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is A decision-maker?",
+  "back": "Someone must act — doing nothing is also a choice",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_dc308b160d8e",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Real alternatives?",
+  "back": "At least two possible courses of action",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_e03447489576",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Conflicting values?",
+  "back": "Each option honours one value and sacrifices another",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_f5ae8ad92bac",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{No man}} is an island, entire of itself; every man is a piece of the continent, a part of the main.",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_dc7efa34dc3c",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by no man?",
+  "back": "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_b95e4417a6c3",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Ethics}} is the philosophical study of morality: a rational examination of people’s moral beliefs and behaviour, concerned with what is good for individuals and for society.",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_4cf6e6db4a9a",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Akhlak}} is a firmly rooted state of the soul that moves a person to do good and reject evil, so that good actions flow easily without long deliberation.",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_cd78da8ebaab",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by akhlak?",
+  "back": "Akhlak is a firmly rooted state of the soul that moves a person to do good and reject evil, so that good actions flow easily without long deliberation.",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_deeff21fe82d",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{The}} means are judged by the ends they produce",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c4a2f4f73263",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by the?",
+  "back": "The means are judged by the ends they produce",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c0fd113608f8",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Principles Often Used as a Guide?",
+  "back": "An action tends to be judged ethical when it passes these tests",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_62d281e77729",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Religions?",
+  "back": "Islam, Christianity, Buddhism, Hinduism and others",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_5055a3f53cf3",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Philosophies?",
+  "back": "From Socrates and Confucius to modern thinkers",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_702f40c14733",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Cultures?",
+  "back": "Customs and norms handed down in each society",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_996104ff332b",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Ensure the public good}} is the central concern during all professional computing work",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_59ab302cbf08",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by ensure the public good?",
+  "back": "Ensure the public good is the central concern during all professional computing work",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_b1c179499908",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{The public good}} is the paramount consideration",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c5def414cef3",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by the public good?",
+  "back": "The public good is the paramount consideration",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_d52ccd63def7",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Ethics?",
+  "back": "Codes of ethics in ICT, the ACM and Software Engineering codes, and professional practice in Malaysia today",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_d1c2e0a8389b",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Codes of Ethics?",
+  "back": "Principles, types and the Ten Commandments",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_cbaa6d2861e3",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Professional Codes?",
+  "back": "ACM Code and the Software Engineering Code",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_932e2703a9e3",
+  "deck": "L4 Professional Ethics",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Practice Today?",
+  "back": "Malaysian bodies, laws and real cases",
+  "text": "",
+  "code": "",
+  "source": "L4 Professional Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_e2b3fdb92a25",
+  "deck": "L5 Ethical Issues",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Ethical Issues?",
+  "back": "Everyday dilemmas in ICT use, Mason’s four ethical issues, and how to make ethical decisions",
+  "text": "",
+  "code": "",
+  "source": "L5 Ethical Issues",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_7cb032909170",
+  "deck": "L5 Ethical Issues",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Recap?",
+  "back": "Ethics theories and why computer ethics matters",
+  "text": "",
+  "code": "",
+  "source": "L5 Ethical Issues",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_39c7fc17b85b",
+  "deck": "L5 Ethical Issues",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Four Ethical Issues?",
+  "back": "Privacy, accuracy, property, accessibility — and accountability",
+  "text": "",
+  "code": "",
+  "source": "L5 Ethical Issues",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c7b1e8391e67",
+  "deck": "L5 Ethical Issues",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Ethical Decisions?",
+  "back": "Law, reasons, principles, rights and duties",
+  "text": "",
+  "code": "",
+  "source": "L5 Ethical Issues",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_2bc759a96b91",
+  "deck": "L6 Netiquette",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is The Internet?",
+  "back": "Then and now, and Malaysian users today",
+  "text": "",
+  "code": "",
+  "source": "L6 Netiquette",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_7ba520da95d4",
+  "deck": "L6 Netiquette",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Netiquette Basics?",
+  "back": "Meaning, origin, core rules, surfing and file sharing",
+  "text": "",
+  "code": "",
+  "source": "L6 Netiquette",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c4e29be09690",
+  "deck": "L6 Netiquette",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is E-mail Netiquette?",
+  "back": "Good and bad e-mails, tips, mailbox and lists",
+  "text": "",
+  "code": "",
+  "source": "L6 Netiquette",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_aa786a3d13e7",
+  "deck": "L6 Netiquette",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Netiquette Today?",
+  "back": "Group chats, video calls, social media, AI and the law",
+  "text": "",
+  "code": "",
+  "source": "L6 Netiquette",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_ee5d7d20431a",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "auto"
+  ],
+  "kind": "cloze",
+  "front": "",
+  "back": "",
+  "text": "{{Some in developing countries have argued that copyright}} is a Western concept that keeps the West’s monopoly over producing and distributing knowledge (Altbach, 1988).",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_efc8e9c84504",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "auto"
+  ],
+  "kind": "basic",
+  "front": "What is meant by some in developing countries have argued that copyright?",
+  "back": "Some in developing countries have argued that copyright is a Western concept that keeps the West’s monopoly over producing and distributing knowledge (Altbach, 1988).",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_a87af0de978d",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Piracy?",
+  "back": "Forms, dangers and effects of piracy; licensing; culture and the debate; and the law in Malaysia today",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_53cc4e551b95",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is The Software Industry and Piracy?",
+  "back": "Software piracy: copying, distributing or using software without the permission (licence) of the copyright owner.",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_6e34a4d70dea",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Costly to build?",
+  "back": "Software needs large investment in research and development",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_2719e9c8f6f5",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Protected by law?",
+  "back": "Because it is costly, software is protected by copyright law and licences",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_9551f8b2f147",
+  "deck": "L8 Privacy Secrecy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Threats to Privacy?",
+  "back": "Who holds our data, and when it is at risk",
+  "text": "",
+  "code": "",
+  "source": "L8 Privacy Secrecy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_75779a8b2c3d",
+  "deck": "L8 Privacy Secrecy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Secrecy?",
+  "back": "Keeping sensitive information of governments, companies and businesses confidential",
+  "text": "",
+  "code": "",
+  "source": "L8 Privacy Secrecy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_94188c116d19",
+  "deck": "L8 Privacy Secrecy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Privacy?",
+  "back": "An individual’s control over information about themselves",
+  "text": "",
+  "code": "",
+  "source": "L8 Privacy Secrecy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_35a50922c718",
+  "deck": "L8 Privacy Secrecy",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Information loses its secrecy?",
+  "back": "Loss of secrecy leads to loss of privacy",
+  "text": "",
+  "code": "",
+  "source": "L8 Privacy Secrecy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_6d0e373e8b59",
+  "deck": "L9 Intellectual Property",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Protects?",
+  "back": "Original expression: writing, music, art, software, films",
+  "text": "",
+  "code": "",
+  "source": "L9 Intellectual Property",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_2b327986e308",
+  "deck": "L9 Intellectual Property",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Trademarks Act 2019?",
+  "back": "Other types of IP: industrial designs, geographical indications (e.g. Sarawak Pepper), trade secrets and layout designs of integrated circuits.",
+  "text": "",
+  "code": "",
+  "source": "L9 Intellectual Property",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_c61e8f4fbe8e",
+  "deck": "L9 Intellectual Property",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is Compilations?",
+  "back": "Databases and collections, as derivative works",
+  "text": "",
+  "code": "",
+  "source": "L9 Intellectual Property",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_3e1a45596112",
+  "deck": "L9 Intellectual Property",
+  "tags": [
+   "key-term"
+  ],
+  "kind": "basic",
+  "front": "What is The Dilemma of Copyright Protection?",
+  "back": "Universal Declaration of Human Rights (1948), Article 27",
+  "text": "",
+  "code": "",
+  "source": "L9 Intellectual Property",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_1e9bc8dc3b39",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Explain the difference between a moral temptation and a true ethical dilemma (Kidder).",
+  "back": "**Right vs wrong** is a moral *temptation* — e.g. copying a friend's code. The answer is clear; the challenge is doing it.\n\n**Right vs right** is a true *dilemma* — both options are defensible, so some value is sacrificed either way. The four common patterns: truth vs loyalty, individual vs community, short term vs long term, justice vs mercy.",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_10a3141aa637",
+  "deck": "L2 Ethical Dilemma",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "List the four steps of ethical analysis and decision making (Kallman & Grillo).",
+  "back": "1. **Understand the situation** — facts, ethical issues, harms, stakeholders\n2. **Isolate the dilemma** — state it as: *Should X do Y?*\n3. **Analyse both alternatives** — utilitarianism, rights & duties, Kant\n4. **Decide and plan** — defend the decision and plan its implementation",
+  "text": "",
+  "code": "",
+  "source": "L2 Ethical Dilemma",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_e31bb79adb3b",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Explain why ethics, in the Islamic view of *akhlak*, requires practice and not just knowledge.",
+  "back": "Akhlak is a firmly rooted state of the soul that moves a person to do good and reject evil. It develops in two stages: (1) careful consideration and reflection, then (2) repeated practice until the good deed becomes a habit — so good actions flow easily without long deliberation. Some qualities (e.g. readiness to forgive) are natural; most are trained.",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_ba936d5fff5a",
+  "deck": "L3 Intro to Ethics",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Why is ethics useless if it only stays in the head? What is it a tool for?",
+  "back": "Ethical theories are only useful if they affect how people actually *behave* — if you know something is morally good, it would be irrational not to do it. But people are not always rational and often follow gut instinct. Even so, ethics gives us a **toolkit for thinking clearly** about moral issues.",
+  "text": "",
+  "code": "",
+  "source": "L3 Intro to Ethics",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_350d3b3b7e90",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Pirates often say 'sharing is caring' and mean well. Explain why a good motive does not automatically make piracy right.",
+  "back": "The question to ask is: *does a good motive (sharing to study or enjoy) make the action (copying without permission) right?* Motive does not change the act — developers lose revenue, licences are violated, and sharers still expose recipients to the malware and legal risks of unlicensed copies.",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_62a56714ed9e",
+  "deck": "L7 Software Piracy",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Give three reasons beyond legality that pirated software is dangerous.",
+  "back": "1. **It leaves you open to attack** — cracks and keygens spread malware (BSA estimates nearly US$359B/year in company costs): data theft, ransomware, identity theft.\n2. **It may stop working when you need it most** — no updates, broken activation.\n3. **It can lead to fines or prosecution.**",
+  "text": "",
+  "code": "",
+  "source": "L7 Software Piracy",
+  "created": 1791000000000
+ },
+ {
+  "id": "seed_4fee86a2c0f6",
+  "deck": "L6 Netiquette",
+  "tags": [
+   "explain-why"
+  ],
+  "kind": "basic",
+  "front": "Explain why the early Internet was limited to military, corporate and academic use, and what changed that.",
+  "back": "The early Internet was technical and hard to use, so it stayed with institutions — and advertising was not allowed. The **World Wide Web** (Berners-Lee, CERN, 1991) and graphical browsers like **Mosaic** (1993) made it easy and visual, so it opened to everyone.",
+  "text": "",
+  "code": "",
+  "source": "L6 Netiquette",
+  "created": 1791000000000
+ }
+]
