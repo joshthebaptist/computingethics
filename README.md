@@ -42,6 +42,8 @@ npm run build    # typecheck + production build into dist/
 ```
 
 Open `dist/index.html` (or host `dist/` on GitHub Pages / any static host) — no backend required.
+The GitHub Actions workflow in `.github/workflows/deploy.yml` rebuilds and deploys to
+GitHub Pages on every push to `main`.
 
 ## Repository layout
 
